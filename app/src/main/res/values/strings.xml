@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BuildVarientDemo</string>
+    <string name="api_url">http://myreleaseurl.com</string>
+</resources>
