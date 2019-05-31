@@ -3,10 +3,10 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias 'truworth'
-            keyPassword 'truworth'
-            storeFile file('D:/Jaiprakash/Projects/MylyCodebase - Quiz/TruworthKey.keystore')
-            storePassword 'truworth'
+            keyAlias 'password'
+            keyPassword 'password'
+            storeFile file('')// keystore path
+            storePassword 'password'
         }
     }
     compileSdkVersion 26
